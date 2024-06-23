@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **burakonurerten@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Im1XLs7oPJ68z8Ob5v9VcmsreOgDEN5p/view?usp=sharing](https://drive.google.com/file/d/1Im1XLs7oPJ68z8Ob5v9VcmsreOgDEN5p/view?usp=sharing)
+- 📄 Know about my experiences [link](https://drive.google.com/file/d/1Im1XLs7oPJ68z8Ob5v9VcmsreOgDEN5p/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

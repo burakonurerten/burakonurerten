@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Burak Onur Erten</h1>
-<h3 align="center">I'm a Software Engineer who developed myself as a Backend Developer
-</h3>
+<h3 align="center">Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=burakonurerten&label=Profile%20views&color=0e75b6&style=flat" alt="burakonurerten" /> </p>
 
@@ -12,12 +11,12 @@
 
 - 📫 How to reach me **burakonurerten@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1A0ONc0LBBxrUoWi7i52sjnC-yJMaDvJc/view?usp=sharing](https://drive.google.com/file/d/1A0ONc0LBBxrUoWi7i52sjnC-yJMaDvJc/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1r_dxEHcTidelXmWj05E26VdRr0UfCtKP/view?usp=sharing](https://drive.google.com/file/d/1r_dxEHcTidelXmWj05E26VdRr0UfCtKP/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/burakonurerten" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="burakonurerten" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@burakonurerten" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@burakonurerten" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/@burakonurerten" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@burakonurerten" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

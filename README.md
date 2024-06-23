@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=burakonurerten&label=Profile%20views&color=0e75b6&style=flat" alt="burakonurerten" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=burakonurerten" alt="burakonurerten" /></a> </p>
-
 - 🔭 I’m currently working on [TurkcellCRM](https://github.com/burakonurerten/TurkcellCRMProject)
 
 - 🌱 I’m currently learning **Microservices with Spring Framework**
